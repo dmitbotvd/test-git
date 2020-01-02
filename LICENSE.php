@@ -4,3 +4,5 @@
   asdasdsad
   asdasda
   asdasd
+  echo "Hello world!";
+  echo "git hello";
